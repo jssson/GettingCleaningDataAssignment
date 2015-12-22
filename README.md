@@ -12,7 +12,7 @@ To get to the output of a tidy data which is giving back the mean of the subject
 To perform this analysis you must run the file
 *run_analysis.R*
 
-The description of the project you can find in the code book called
+The description of the project you can find in the code book called
 *CodeBook.md*
 
 Merry Christmas and a happy new year!
