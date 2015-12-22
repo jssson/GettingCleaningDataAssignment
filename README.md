@@ -15,4 +15,7 @@ To perform this analysis you must run the file
 The description of the project you can find in the code book called
 *CodeBook.md*
 
+The files of the project which are to ignore you can find in 
+*.gitignore*
+
 Merry Christmas and a happy new year!
